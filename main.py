@@ -1,7 +1,7 @@
 def sum(a,b):
     return float(a)+float(b)
 def mult(a,b):
-    return int(a)+int(b)
+    return int(a)*int(b)
 
 
 print("insert numer 1")
