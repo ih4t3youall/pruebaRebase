@@ -13,7 +13,5 @@ number2 = input()
 
 result = sum(number1,number2)
 print(result)
-print('this should be removed')
 result1 = resta(number1,number2)
 print(result1)
-print('this should be removed too')
